@@ -789,7 +789,7 @@ $$
 \text{dim }S + \text{dim }U = \text{dim }(S + U) + \text{dim }(S \cap U).
 $$
 
-> A typo in the [lecture summary (PDF)](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/MIT18_06SCF11_Ses1.11sum.pdf) of this session:
+> A typo in the [lecture summary (PDF)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/732789d4b5c1247ccab5faf13b6f29d2_MIT18_06SCF11_Ses1.11sum.pdf) of this session:
 >
 > > $S \cup U$ should be $S + U$ in the equation about dimensions.
 
